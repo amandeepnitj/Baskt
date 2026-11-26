@@ -1,4 +1,4 @@
-package com.avee.Baskt;
+package com.avee.baskt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
